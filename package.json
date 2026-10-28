@@ -1,0 +1,3 @@
+{ "name": "x-mena-lead-finder", "private": true, "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node finder.mjs", "test": "node --test test/finder.test.mjs" } }
